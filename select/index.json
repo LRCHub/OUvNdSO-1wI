@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "それはまた別のお話",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-25T14:34:31.152423Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "それはまた別のお話",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_それはまた別のお話_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "それはまた別のお話",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_それはまた別のお話_amazarashi.txt"
+    }
+  ]
+}
